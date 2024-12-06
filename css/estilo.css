@@ -16,8 +16,8 @@ body {
 }
 
 header {
-    background: #333;
-    color: #fff;
+    background: #333333;
+    color: #f6f4f4;
     padding: 20px;
 }
 
@@ -51,7 +51,7 @@ header {
 }
 
 .social a {
-    color: #fff;
+    color: #f8f8f5;
     margin-right: 10px;
     text-decoration: none;
 }
@@ -79,7 +79,7 @@ section {
 .section-title {
     font-size: 1.5em;
     margin-bottom: 10px;
-    color: #333;
+    color: #2e2f2ffe;
 }
 
 .section-title:hover {

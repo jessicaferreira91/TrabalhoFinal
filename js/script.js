@@ -17,7 +17,7 @@ $(document).ready(function () {
 
     function fetchGitHubProjects() {
 
-        const username = 'dhDSouza';
+        const username = 'jessicaferreira91';
         const url = `https://api.github.com/users/${username}/repos`;
 
         fetch(url)
